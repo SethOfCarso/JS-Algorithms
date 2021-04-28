@@ -1,0 +1,8 @@
+Trie Tree
+-A trie is a digital tree, radix tree or prefix tree
+-A type of research tree.
+- Values tend to be the leaves instead of being each node.
+
+A good example for this tipe of trees would be a Dictionary or a word validation
+A good video to see : https://www.youtube.com/watch?v=zIjfhVPRZCg&list=PLLXdhg_r2hKA7DPDsunoDZ-Z769jWn4R8&index=8
+Wikipedia page : https://en.wikipedia.org/wiki/Trie
