@@ -14,10 +14,10 @@ Each data structure have an example of how to do it and also adding some basic c
 -   [Double Linked List](https://github.com/SethOfCarso/JS-Algorithms/tree/master/DoubleLinkedList)  
 -   [Queue](https://github.com/SethOfCarso/JS-Algorithms/tree/master/Queue)  
 -   [Stack](https://github.com/SethOfCarso/JS-Algorithms/tree/master/stack)  
--   [Hash Table](https://github.com/SethOfCarso/JS-Algorithms/tree/master/HashTable)  
+-   [Hash Table](https://github.com/SethOfCarso/JS-Algorithms/tree/master/HashTable)  -It's done, need to revisit to rewrite it.
 -   [Heap](https://github.com/SethOfCarso/JS-Algorithms/tree/master/Heap)  
 -   [Priority Queue](https://github.com/SethOfCarso/JS-Algorithms/tree/master/stack)  
--   [Trie](https://github.com/SethOfCarso/JS-Algorithms/tree/master/Trie) - It's done for need to revisit to check some stuff.  
+-   [Trie](https://github.com/SethOfCarso/JS-Algorithms/tree/master/Trie) - It's done, need to revisit to rewrite it.  
 -   [Tree](https://github.com/SethOfCarso/JS-Algorithms/tree/master/Tree)   - This is just a base for the trees.  
     -   [Binary Search Tree](https://github.com/SethOfCarso/JS-Algorithms/tree/master/stack)  
 
