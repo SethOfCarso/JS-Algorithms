@@ -7,12 +7,10 @@ Currently this repo it is a combination of me doing :
 So this repo contains JavaScript based examples of many popular data structures (ATM, planning to add algorithms).
 Each data structure have an example of how to do it.
 
-## Currently working in
+# Currently working on
 
-    <ol>
-        <li> [Linked List](https://github.com/SethOfCarso/JS-Algorithms/tree/master/Linkedlist) <li>
-        <li>[Double Linked List](https://github.com/SethOfCarso/JS-Algorithms/tree/master/DoubleLinkedList) <li>
-        <li>[Queue](https://github.com/SethOfCarso/JS-Algorithms/tree/master/Queue)  <li>
-        <li>[Stack](https://github.com/SethOfCarso/JS-Algorithms/tree/master/stack)</li>
-    </ol>
+-[Linked List](https://github.com/SethOfCarso/JS-Algorithms/tree/master/Linkedlist)
+-[Double Linked List](https://github.com/SethOfCarso/JS-Algorithms/tree/master/DoubleLinkedList)
+-[Queue](https://github.com/SethOfCarso/JS-Algorithms/tree/master/Queue)
+-[Stack](https://github.com/SethOfCarso/JS-Algorithms/tree/master/stack)
 
