@@ -40,4 +40,5 @@ Each data structure have an example of how to do it and also adding some basic c
 ## Ideas to add
 
 The idea is to add to each list a read me with some type of summary of each data structure, some info / basic operations, some extra info for it.  
+After I'm done with datha structures im going to add test to each one, then doing some algoritms.
 Feel free to ask me anything throught email.
