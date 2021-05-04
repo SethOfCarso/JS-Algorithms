@@ -193,6 +193,7 @@ export default class LinkedList {
      */
     fromArray(values) {
         // For each value, we use our append function to insert it into the linked list.
+        //Start from the top up to the bottom.
         values.forEach((value => this.append(value)));
 
         return this;

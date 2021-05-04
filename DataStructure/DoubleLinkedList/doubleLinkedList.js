@@ -115,6 +115,7 @@ export default class DoubleLinkedList {
             currentNode = currentNode.next;
 
         }
+        return deletedNode;
         
     }
 
