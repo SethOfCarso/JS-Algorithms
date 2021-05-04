@@ -10,16 +10,16 @@ Each data structure have an example of how to do it and also adding some basic c
 
 # Done
 
--   [Linked List](https://github.com/SethOfCarso/JS-Algorithms/tree/master/Linkedlist)  
--   [Double Linked List](https://github.com/SethOfCarso/JS-Algorithms/tree/master/DoubleLinkedList)  
--   [Queue](https://github.com/SethOfCarso/JS-Algorithms/tree/master/Queue)  
--   [Stack](https://github.com/SethOfCarso/JS-Algorithms/tree/master/stack)  
--   [Hash Table](https://github.com/SethOfCarso/JS-Algorithms/tree/master/HashTable)  -It's done, need to revisit to rewrite it.
--   [Heap](https://github.com/SethOfCarso/JS-Algorithms/tree/master/Heap)  
--   [Priority Queue](https://github.com/SethOfCarso/JS-Algorithms/tree/master/stack)  
--   [Trie](https://github.com/SethOfCarso/JS-Algorithms/tree/master/Trie) - It's done, need to revisit to rewrite it.  
--   [Tree](https://github.com/SethOfCarso/JS-Algorithms/tree/master/Tree)   - This is just a base for the trees.  
-    -   [Binary Search Tree](https://github.com/SethOfCarso/JS-Algorithms/tree/master/stack)  
+-   [Linked List](https://github.com/SethOfCarso/JS-Algorithms/tree/master/DataStructure/Linkedlist)  
+-   [Double Linked List](https://github.com/SethOfCarso/JS-Algorithms/tree/master/DataStructure/DoubleLinkedList)  
+-   [Queue](https://github.com/SethOfCarso/JS-Algorithms/tree/master/DataStructure/Queue)  
+-   [Stack](https://github.com/SethOfCarso/JS-Algorithms/tree/master/DataStructure/stack)  
+-   [Hash Table](https://github.com/SethOfCarso/JS-Algorithms/tree/master/DataStructure/HashTable)  -It's done, need to revisit to rewrite it.
+-   [Heap](https://github.com/SethOfCarso/JS-Algorithms/tree/master/DataStructure/Heap)  
+-   [Priority Queue](https://github.com/SethOfCarso/JS-Algorithms/tree/master/DataStructure/stack)  
+-   [Trie](https://github.com/SethOfCarso/JS-Algorithms/tree/master/DataStructure/Trie) - It's done, need to revisit to rewrite it.  
+-   [Tree](https://github.com/SethOfCarso/JS-Algorithms/tree/master/DataStructure/Tree)   - This is just a base for the trees.  
+    -   [Binary Search Tree](https://github.com/SethOfCarso/JS-Algorithms/tree/master/DataStructure/stack)  
 
 
 # Currently working on (To-do)
